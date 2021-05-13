@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Hello
+title: Home
 ---
-Hello world!
+
+Welcome to the Shabbaton Choir website.

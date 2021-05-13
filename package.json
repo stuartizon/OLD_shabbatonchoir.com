@@ -12,6 +12,7 @@
   "author": "Stuart Izon <stuart.izon@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
     "react": "^17.0.2",
     "tailwind": "^4.0.0"
   },

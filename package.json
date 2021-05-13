@@ -1,0 +1,21 @@
+{
+  "name": "shabbatonchoir.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve",
+    "format": "prettier"
+  },
+  "author": "Stuart Izon <stuart.izon@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "tailwind": "^4.0.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "prettier": "^2.3.0"
+  }
+}

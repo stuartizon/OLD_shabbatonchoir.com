@@ -5,4 +5,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "node_modules/@fortawesome/fontawesome-free/webfonts": "webfonts",
   });
+
+  return {
+    dir: {
+      input: "pages"
+    }
+  }
 };
